@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Shrimp",
+		"image_path": "url.gif",
+		"text": "I don't like shrimp"
+	},
+	{
+		"name": "Carrots & Fish",
+		"image_path": "cuisine_header.jpg",
+		"text": "Carrrrrrrots"
+	}
+]
